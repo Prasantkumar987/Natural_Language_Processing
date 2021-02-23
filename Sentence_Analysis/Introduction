@@ -1,0 +1,4 @@
+In this project , I did the Word Analysis means tried to determine that Sentence is Positive or Negative .
+
+For the Project a dataset is provided , and that dataset needs to be splited into train and test data .
+I trained Model on the train data and tested them on test data using various classification algorithms and also printedd the accuracy of each model.
